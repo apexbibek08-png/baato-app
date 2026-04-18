@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "525268134920",
+    "project_id": "baato-eb4ff",
+    "storage_bucket": "baato-eb4ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525268134920:android:48ec91b63984385f17b5bd",
+        "android_client_info": {
+          "package_name": "com.baato.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq2oTiY1_-LDB72hdTzFejZ68WH7YbwM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525268134920:android:af5a42a8f484064317b5bd",
+        "android_client_info": {
+          "package_name": "com.example.baato"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq2oTiY1_-LDB72hdTzFejZ68WH7YbwM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525268134920:android:ae078d9d0248a6c317b5bd",
+        "android_client_info": {
+          "package_name": "com.example.geeksforgeeks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq2oTiY1_-LDB72hdTzFejZ68WH7YbwM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
